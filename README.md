@@ -11,4 +11,6 @@ I followed the [Data Science Hive](https://www.datasciencehive.com/data-analyst-
 	So I deleted these steps since unnecessary.
 	(This can also be seen in the Name column (891 distinct, 891 unique)).
 
- ### 2.
+ ![1 - Missing Values](https://github.com/user-attachments/assets/ab81bb37-84e6-4405-b01e-da9c34f6e456))
+
+ ### 2. 

@@ -7,9 +7,9 @@ I followed the [Data Science Hive](https://www.datasciencehive.com/data-analyst-
 
 ### 1. Remove Duplicates
   I imported the table into Power Query (891 rows).
-	I removed duplicate rows (but still 891 rows).
-	So I deleted these steps since unnecessary.
-	(This can also be seen in the Name column (891 distinct, 891 unique)).
+  I removed duplicate rows (but still 891 rows).
+  So I deleted these steps since unnecessary.
+  (This can also be seen in the Name column (891 distinct, 891 unique)).
 
  ![1 - Missing Values](https://github.com/user-attachments/assets/ab81bb37-84e6-4405-b01e-da9c34f6e456)
 

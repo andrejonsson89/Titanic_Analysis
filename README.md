@@ -15,8 +15,9 @@ I followed the [Data Science Hive](https://www.datasciencehive.com/data-analyst-
 
  ### 2. Handle missing data
  Check for missing values in Age, Fare, or other columns.
-	Close & Load Power Query to a PivotTable.
-	Drag each column to the values field to see a count.
-	Can conditional format to highlight cells with values not equal to 891.
-	We can see that only the Age column has omitted values.
+ 
+ Close & Load Power Query to a PivotTable.<br/>
+ Drag each column to the values field to see a count.<br/>
+ Can conditional format to highlight cells with values not equal to 891.<br/>
+ We can see that only the Age column has omitted values.<br/>
 

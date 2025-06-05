@@ -11,6 +11,12 @@ I followed the [Data Science Hive](https://www.datasciencehive.com/data-analyst-
 	So I deleted these steps since unnecessary.
 	(This can also be seen in the Name column (891 distinct, 891 unique)).
 
- ![1 - Missing Values](https://github.com/user-attachments/assets/ab81bb37-84e6-4405-b01e-da9c34f6e456))
+ ![1 - Missing Values](https://github.com/user-attachments/assets/ab81bb37-84e6-4405-b01e-da9c34f6e456)
 
- ### 2. 
+ ### 2. Handle missing data
+ ### Check for missing values in Age, Fare, or other columns.
+	Close & Load Power Query to a PivotTable.
+	Drag each column to the values field to see a count.
+	Can conditional format to highlight cells with values not equal to 891.
+	We can see that only the Age column has omitted values.
+

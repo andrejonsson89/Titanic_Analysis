@@ -36,10 +36,11 @@ Explicit measures = RC dataset -> add measure
 ### 3. Survival Analysis
 Calculate survival rate and group by Sex and Pclass
 
+Survivors Count = SUM([Survived]) = 342<br/>
+Survival Rate = DIVIDE([Survivors Count],COUNTA([PassengerId])) = 38%
+
 ![3 - Survival Rate](https://github.com/user-attachments/assets/e4812fa7-c7e4-42ba-a97b-406a08457ad5)
 
-Survivors Count = SUM([Survived]) = 342<br/>
-Survival Rate = DIVIDE([Survivors Count],COUNTA([PassengerId])) = 38%<br/>
 Depending on what's most interesting, Rows and Pclass can be sorted accordingly for subtotal percentages.
 
 ![4 - Survival Analysis](https://github.com/user-attachments/assets/e80a7b9d-e06f-4363-9412-c5c9b0f1a158)

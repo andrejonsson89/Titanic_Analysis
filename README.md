@@ -113,11 +113,11 @@ but if we had to add a linear trendline, we can see that the answer is yes.
 
 
 
-If I would redo it:<br/>
+If I would redo this whole thing:<br/>
 Probably group together sheets so I wouldn't have this many.<br/>
-	Missing Values and Basic Statistics could just be Statistics.<br/>
-	Survival Rate and Survival Analysis could just be Survival.<br/>
-	Histogram and Bar Chart and Pie Chart could just be Charts.<br/>
-	Big Spenders and Top 10 could just be Top Spenders.
+"Missing Values" and "Basic Statistics" could just be "Statistics".<br/>
+"Survival Rate" and "Survival Analysis" could just be "Survival".<br/>
+"Histogram" and "Bar Chart" and "Pie Chart" could just be "Charts".<br/>
+"Big Spenders" and "Top 10" could just be "Top Spenders".
 
 

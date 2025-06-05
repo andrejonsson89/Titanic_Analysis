@@ -108,7 +108,7 @@ but let's try to create a better visualization.
 
 ### 3. Are younger passengers more likely to survive?
 There doesn't seem to be much correlation in our scatter plot<br/>
-but if we had to add a linear trendline, we can see that the answer is yes.
+but if we had to add a linear trendline, we can see that the answer is "only slightly".
 
 ![RQ - 3](https://github.com/user-attachments/assets/4ef18473-012c-4910-a1c0-0a5e2cbd8800)
 
